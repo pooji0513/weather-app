@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">weather1</string>
+    <string name="get" translatable="false">Get</string>
+    <string name="banner_adunit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
